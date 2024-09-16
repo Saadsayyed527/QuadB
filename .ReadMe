@@ -1,0 +1,3 @@
+npm install 
+make .env file add mongo url and port number 
+in terminal : node index.js
